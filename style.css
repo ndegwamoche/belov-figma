@@ -8,6 +8,7 @@
 }
 
 /* Global Styles */
+
 *,
 *::before,
 *::after {
@@ -387,10 +388,6 @@ nav.mobile-navigation,
         align-items: center;
     }
 
-    .articles-section .wrapper {
-        flex-direction: column;
-    }
-
     .main-navigation {
         display: none;
     }
@@ -447,12 +444,16 @@ nav.mobile-navigation,
         font-size: 18px;
     }
 
+
+    .articles-section .wrapper {
+        flex-direction: column;
+    }
+
     .featured-article {
         max-width: 100%;
         margin-right: 0;
         padding: 20px;
     }
-
 
     .article-card .article-image img {
         max-width: 300px;
@@ -493,7 +494,6 @@ nav.mobile-navigation,
 
     }
 
-
     .main-navigation .search-icon img {
         max-width: 28px;
         max-height: 28px;
@@ -526,8 +526,4 @@ nav.mobile-navigation,
     .other-articles {
         gap: 35px;
     }
-}
-
-@media screen and (min-width: 1440px) {
-    /* Desktop-specific styles go here */
 }
