@@ -375,7 +375,7 @@ nav.mobile-navigation,
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 801px) and (max-width: 1024px) {
     /* Tablet-specific styles go here */
 
     .wrapper {
