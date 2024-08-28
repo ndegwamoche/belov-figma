@@ -13,6 +13,8 @@ This project was created based on the following Figma design:
 
 [**Test Task Figma Design**](https://www.figma.com/design/xUKdOzSL8zqpxzka7TomwB/Test-Task?node-id=1-469&t=vd5AfJ0QmDGgpePK-0)
 
+![Belov marathon handbook HTML page from figma](https://raw.githubusercontent.com/ndegwamoche/belov-figma/main/belov-figma.png)
+
 The design served as the foundation for the layout, styling, and overall structure of the website. Every detail has been meticulously translated from the Figma file to ensure a high level of accuracy and fidelity in the final product.
 
 ## Getting Started
